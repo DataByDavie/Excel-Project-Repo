@@ -48,11 +48,9 @@ Created PivotTables to:
 
 <img width="449" height="219" alt="image" src="https://github.com/user-attachments/assets/b2b767b2-d1ad-4abf-92d6-7479e7b3450e" />
 
-<img width="502" height="237" alt="image" src="https://github.com/user-attachments/assets/59109ba7-8003-4263-a425-f14a7ff86f65" />
-
-
 
 <img width="506" height="291" alt="image" src="https://github.com/user-attachments/assets/27ab39aa-9c11-4f53-8715-232eaf05dc5f" />
+
 ---
 
 ### 📊 Data Visualisation
@@ -72,6 +70,8 @@ Designed charts and PivotCharts to communicate insights effectively:
 - Calculated total and average commission values
 - Explored sales performance across different customer groups
 - Used filtering and sorting techniques to uncover trends
+
+<img width="502" height="237" alt="image" src="https://github.com/user-attachments/assets/59109ba7-8003-4263-a425-f14a7ff86f65" />
 
 ### 🚲 Bike Sales Analysis
 - Built PivotTables to analyse:
