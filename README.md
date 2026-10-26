@@ -46,6 +46,7 @@ Created PivotTables to:
 
 ✅ Identify top-performing products and sales locations
 
+<img width="449" height="219" alt="image" src="https://github.com/user-attachments/assets/b2b767b2-d1ad-4abf-92d6-7479e7b3450e" />
 ---
 
 ### 📊 Data Visualisation
@@ -144,4 +145,4 @@ This project strengthened my ability to turn raw business data into meaningful i
 
 
 
-<img width="449" height="219" alt="image" src="https://github.com/user-attachments/assets/b2b767b2-d1ad-4abf-92d6-7479e7b3450e" />
+
