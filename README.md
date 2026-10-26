@@ -126,12 +126,22 @@ This project strengthened my ability to turn raw business data into meaningful i
 
 <img width="497" height="343" alt="image" src="https://github.com/user-attachments/assets/0c74f469-b905-43e6-8a3e-836b95234ac8" />
 
+
+
 <img width="502" height="237" alt="image" src="https://github.com/user-attachments/assets/59109ba7-8003-4263-a425-f14a7ff86f65" />
+
+
 
 <img width="506" height="291" alt="image" src="https://github.com/user-attachments/assets/27ab39aa-9c11-4f53-8715-232eaf05dc5f" />
 
+
+
 <img width="509" height="278" alt="image" src="https://github.com/user-attachments/assets/00c3da10-83a2-464d-ae9e-24115905e7a0" />
 
+
+
 <img width="453" height="416" alt="image" src="https://github.com/user-attachments/assets/3b2cb6ec-edd1-44e7-a4ca-515060e93783" />
+
+
 
 <img width="449" height="219" alt="image" src="https://github.com/user-attachments/assets/b2b767b2-d1ad-4abf-92d6-7479e7b3450e" />
