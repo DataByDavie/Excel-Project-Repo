@@ -74,6 +74,8 @@ Designed charts and PivotCharts to communicate insights effectively:
   - Gender demographics
 - Identified key customer segments and profitable markets
 
+<img width="453" height="416" alt="image" src="https://github.com/user-attachments/assets/3b2cb6ec-edd1-44e7-a4ca-515060e93783" />
+
 ### 📦 Product Sales Classification
 Used the **SWITCH** function to automatically categorise products into:
 
@@ -141,7 +143,7 @@ This project strengthened my ability to turn raw business data into meaningful i
 
 
 
-<img width="453" height="416" alt="image" src="https://github.com/user-attachments/assets/3b2cb6ec-edd1-44e7-a4ca-515060e93783" />
+
 
 
 
